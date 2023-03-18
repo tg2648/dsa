@@ -1,0 +1,5 @@
+# Heapsort
+
+```
+dotnet run
+```
